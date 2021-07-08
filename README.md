@@ -1,1 +1,1 @@
-# testing_website
+*/ /redirect.html 200
